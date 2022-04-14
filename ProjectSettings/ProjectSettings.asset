@@ -635,8 +635,8 @@ PlayerSettings:
   vrEditorSettings: {}
   cloudServicesEnabled:
     Analytics: 0
-    Build: 1
-    Collab: 1
+    Build: 0
+    Collab: 0
     Game Performance: 0
     Purchasing: 0
     UDP: 0
@@ -654,11 +654,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 62be5ce2-8994-4077-89f2-1c9388f2e7e1
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Pixel Game
-  organizationId: ahmetyagiz
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
